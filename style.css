@@ -1,0 +1,14 @@
+@font-face {
+    font-family: ebgaramond-regular;
+    src: url(EBGaramond-VariableFont_wght.ttf);
+}
+
+#title {
+    font-family: ebgaramond-regular;
+    font-size: 4em;
+    text-align: center;
+}
+
+hr {
+    size: 5em;
+}
